@@ -1,0 +1,21 @@
+{
+  "name": "duffel-cms-raptor-editor-filemanager",
+  "version": "0.0.1",
+  "author": "Michael Robinson <mike@pagesofinterest.net>",
+  "description": "Filemanager backend for Raptor Editor's premium file manager plugin",
+  "contributors": [
+    {
+      "name": "Michael Robinson",
+      "email": "mike@pagesofinterest.net"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrownPaperBag/duffel-cms-raptor-editor-filemanager"
+  },
+  "dependencies": {
+    "controller-loader": "latest",
+    "multiparty": "latest",
+    "mmmagic": "latest"
+  }
+}
