@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "controller-loader": "latest",
-    "multiparty": "latest",
-    "mmmagic": "latest"
+    "pluploader": "latest"
   }
 }
